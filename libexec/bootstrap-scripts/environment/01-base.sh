@@ -22,4 +22,4 @@
 # 
 # 
 
-
+unset SSL_CERT_DIR
